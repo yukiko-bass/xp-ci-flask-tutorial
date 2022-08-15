@@ -12,8 +12,8 @@ https://msiz07-flask-docs-ja.readthedocs.io/ja/latest/tutorial/index.html
 https://msiz07-flask-docs-ja.readthedocs.io/ja/latest/installation.html
 
 ```
-$ mkdir flask-tutorial
-$ cd flask-tutorial
+$ mkdir xp-ci-flask-tutorial
+$ cd xp-ci-flask-tutorial
 $ python3.10 -m venv venv
 $ source venv/bin/activate
 ```

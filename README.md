@@ -49,3 +49,9 @@ $ pip install -e .
 ```
 $ pip install pytest coverage
 ```
+
+```
+$ coverage run -m pytest
+$ coverage report
+$ coverage html
+```
